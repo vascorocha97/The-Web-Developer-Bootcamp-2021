@@ -1,3 +1,5 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <!-- ABOUT -->
 ## About
 
@@ -8,7 +10,7 @@ The Colt Steele's Web Developer Bootcamp 2021 course exercises.
 
 Vasco Rocha - vascoalexandrerocha97@gmail.com
 
-Project Link: [Procedural Planet Generation (Unity)](https://github.com/vascorocha97/Procedural-Planet-Generation-Unity)
+Project Link: [The Web Developer Bootcamp 2021](https://github.com/vascorocha97/The-Web-Developer-Bootcamp-2021)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
